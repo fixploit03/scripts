@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 #**********************************************************
 #
+# deauth_detector.py
+#
 # Script python untuk mendeteksi serangan Deauthentication
 #
 #**********************************************************
